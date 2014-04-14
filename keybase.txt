@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/jasonswindle
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://swindle.me
+  * I am jasonswindle (https://keybase.io/jasonswindle) on keybase.
+  * I have a public key with fingerprint EF76 A226 ECED 141D 9DF7  DA73 06B2 39FE F125 3B2D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "ef76a226eced141d9df7da7306b239fef1253b2d",
+            "host": "keybase.io",
+            "key_id": "06b239fef1253b2d",
+            "uid": "34dd03fad44be823306bd6d8ab412e00",
+            "username": "jasonswindle"
+        },
+        "service": {
+            "hostname": "swindle.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397479244,
+    "expire_in": 157680000,
+    "prev": "d726df9adeeb554ba484e457453049813a07af2284f643ac2ce7dadb9f36b82a",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.5
+Comment: https://keybase.io/crypto
+
+yMHvAnicbZFdTBRXFMcXEEESqkGimBgJA8GA6zp7587XNg0PSiWCiUVBDdj1ztw7
+7LAws84O0M2mNDEtlIRKkzbUuJGksdYYm2wfMNaHtUjEGPEBNF00gfigQJSmifIZ
+m0XuEHzzvtycc37//7nnnnu5Ga6ctDFrfuTVROp62ujQQpvrePVETZRRTBxhfFEm
+SNYvTTeaiBWydMNmfAzRRAEBIBCVYC/0YhlrIkYixwoK4GSNaF7AcwrAjJsJmGFH
+QW0UFCYe3aQ5Gvh1TLMf4dvWCxzEmOU0hCFUiAQ4xxkLWEIK9ALCsg4YJpaBWgml
+m1HYNMIduoFbCPO1m6GVdl2lleh6+w1qA/DQwM2ELNM2VbOF5gO2HfI5MjsScrgO
+ovg3HPwKldDJqaCdWGHdNBifl5KqrTuWXk4WoSgDCN0M+SqkW8SvOwQvChJLj9OG
+tFNLLAIBazLChCg8DxUEJUggL0KeY6EseTnEikgDQIKaADmkApXQ/8SKrHGCIgFE
++4fJOcOk3oC+EzU54+hNBrLbLDrx8FDjJldajmtzZrqzPFfOlm0fVjpxJeu9cjNV
+xFUpmn0065fdc793F9qtZ2Yf/+Zu+Kxw7AJ/erqaK34tXWpY7JgTC1Yql7bfOgzq
+DtRFl7qH4nU/ekqOXXxZU/lXeZB5NhogP/ydOjKwt2spsZzdpw2sFBUkKvI/qV+J
+l6qzeYO+wU/Hu67WDMv7euan/iwjMTiZeSL+0PBF+ldza2f+7ZxZ3PNPbX92PXgS
+S+981N0YrEzsd305kvddxuQ0//Tn+PPEZPaO1eS7qtj//Nvvi8unpdaR5msFM4HS
+nxa+/dUHlksOnk0/ebe3OtnHfqNkjqe+uPNiV4/6eWRnUkPam/w/7t9Inu/V/tt6
+6vZU44PY5Yr6Q56y4Br3dxrC
+=XxAb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jasonswindle
+
+==================================================================
